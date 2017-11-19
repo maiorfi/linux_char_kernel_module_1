@@ -1,0 +1,2 @@
+#Rules file for the my_char_kernel_module_1 device driver
+KERNEL=="my_char_kernel_module_1", SUBSYSTEM=="my_kmods", MODE="0666"
