@@ -78,3 +78,7 @@ che dovrebbe dare qualcosa del tipo:
  sudo apt-get install strace
  sudo strace ./test
  ```
+ 
+ #### Riferimenti
+ [Blog di Derek Molloy](http://derekmolloy.ie/category/general/linux/)
+ [Mastering Embedded Linux Programming](https://www.amazon.it/Mastering-Embedded-Linux-Programming-Simmonds/dp/1784392537)
